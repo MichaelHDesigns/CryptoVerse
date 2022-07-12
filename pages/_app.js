@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
       <div>
           <nav className="border-b p-6">
-              <h1 className="text-4xl font-bold">Metaverse Marketplace</h1>
+              <h1 className="text-4xl font-bold">CryptoAsset Marketplace</h1>
               <div className="flex mt-4">
                   <Link href="/">
                       <a className="mr-6 text-blue-800">
@@ -34,4 +34,4 @@ function MyApp({ Component, pageProps }) {
   );
 }
 
-export default MyApp
+export default MyApp;
